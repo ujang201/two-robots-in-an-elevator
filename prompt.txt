@@ -1,0 +1,15 @@
+Write one funny line of awkward small talk that one robot says to another
+while they ride an elevator together, under 200 characters.
+
+The line must:
+- read as a single line of small talk between two robots in an elevator;
+- sound like a machine talking, with robot logic, firmware, sensors or
+  charging habits showing through the politeness;
+- land the awkwardness: the pause, the forced courtesy, the thing neither
+  robot wants to name;
+- be funny on the first read, with a turn that surprises rather than a
+  familiar pun;
+- stay tight, with every word earning its place.
+
+Avoid generic elevator jokes and weather puns. Aim for a specific,
+surprising machine-logic twist on the silence itself.
